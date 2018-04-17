@@ -1,0 +1,344 @@
+Uri: http://www.hn-chbs.com/
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\index.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/zj/20157241151060.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241151060.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015724115698.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015724115698.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241151004.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241151004.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241141030.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241141030.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241141037.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241141037.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/templates/LCS-DL-N0002/css/index.css
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\templates\LCS-DL-N0002\css\index.css
+Content Type: text/css
+
+Uri: http://www.hn-chbs.com/wh.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\wh.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/gongsixinwen/7_1.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\gongsixinwen\7_1.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/10_1.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\10_1.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/hezuohuoban.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\hezuohuoban.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/qiyewenhua.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\qiyewenhua.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/zaixianliuyan.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zaixianliuyan.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/lianxifangshi.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\lianxifangshi.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/gongsixinwen/428.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\gongsixinwen\428.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/gongsixinwen/427.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\gongsixinwen\427.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/gongsixinwen/426.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\gongsixinwen\426.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/gongsixinwen/425.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\gongsixinwen\425.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/gongsixinwen/424.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\gongsixinwen\424.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/zuixingonggao/418.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zuixingonggao\418.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/weiwangdengguang/547.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\weiwangdengguang\547.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/weiwangdengguang/546.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\weiwangdengguang\546.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/weiwangdengguang/545.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\weiwangdengguang\545.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/yumaoqiuchang/544.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\yumaoqiuchang\544.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/yumaoqiuchang/543.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\yumaoqiuchang\543.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/yumaoqiuchang/542.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\yumaoqiuchang\542.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/yumaoqiuchang/541.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\yumaoqiuchang\541.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/renzaocaoping/540.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\renzaocaoping\540.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/renzaocaoping/539.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\renzaocaoping\539.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/renzaocaoping/538.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\renzaocaoping\538.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/renzaocaoping/537.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\renzaocaoping\537.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/renzaocaoping/536.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\renzaocaoping\536.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/lanqiuchang/535.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\lanqiuchang\535.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/lanqiuchang/534.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\lanqiuchang\534.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/lanqiuchang/533.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\lanqiuchang\533.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/lanqiuchang/532.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\lanqiuchang\532.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/lanqiuchang/531.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\lanqiuchang\531.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/wangqiuchang/530.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\wangqiuchang\530.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/wangqiuchang/529.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\wangqiuchang\529.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/wangqiuchang/528.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\wangqiuchang\528.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/wangqiuchang/527.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\wangqiuchang\527.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/526.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\526.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/525.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\525.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/524.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\524.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/523.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\523.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/522.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\522.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/521.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\521.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/shigongshebei/520.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\shigongshebei\520.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/anli/57_1.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\anli\57_1.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/anli/558.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\anli\558.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/anli/557.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\anli\557.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/anli/556.html
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\anli\556.htm
+Content Type: text/html
+
+Uri: http://www.hn-chbs.com/uploadfile/logo.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\uploadfile\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/uploadfile/top11.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\uploadfile\top11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015072809011111.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015072809011111.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/templates/LCS-DL-N0002/js/d.js
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\templates\LCS-DL-N0002\js\d.js
+Content Type: application/x-javascript
+
+Uri: http://www.hn-chbs.com/templates/LCS-DL-N0002/images/img/h3_more.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\templates\LCS-DL-N0002\images\img\h3_more.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20154221520586.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20154221520586.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015418959447.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015418959447.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/templates/LCS-DL-N0002/images/img/h3_line.png
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\templates\LCS-DL-N0002\images\img\h3_line.png
+Content Type: image/png
+
+Uri: http://www.hn-chbs.com/templates/LCS-DL-N0002/js/c.js
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\templates\LCS-DL-N0002\js\c.js
+Content Type: application/x-javascript
+
+Uri: http://www.hn-chbs.com/zj/201572511291045.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\201572511291045.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251124676.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251124676.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251117307.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251117307.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251113488.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251113488.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251110692.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251110692.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725114291.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725114291.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251059375.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251059375.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251051938.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251051938.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/201572510421016.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\201572510421016.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251026488.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251026488.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251020424.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251020424.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251011942.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251011942.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157251061002.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157251061002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725103755.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725103755.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725959296.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725959296.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725952914.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725952914.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725948912.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725948912.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725944961.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725944961.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725938503.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725938503.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015725930658.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015725930658.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/2015724183120.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\2015724183120.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241757665.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241757665.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241723784.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241723784.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241717188.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241717188.jpg
+Content Type: image/jpeg
+
+Uri: http://www.hn-chbs.com/zj/20157241549250.jpg
+File Name: C:\Users\Administrator\Desktop\网站\test\www.hn-chbs.com\zj\20157241549250.jpg
+Content Type: image/jpeg
+
